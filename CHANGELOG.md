@@ -1,3 +1,6 @@
+## 4.9.77 (February 1, 2024)
+- Minor bug fixes.
+
 ## 4.9.76 (January 17, 2024)
 
 - Improved dark theme detection.
